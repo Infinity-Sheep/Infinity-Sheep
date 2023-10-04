@@ -9,3 +9,7 @@
 ![improvedOctocat copy](https://github.com/Infinity-Sheep/Infinity-Sheep/assets/146842663/9f8433f5-79bf-4198-bcbd-58af6027f4f9)
 
 # Published Works
+
+### Code.org GameLab
+[Robot Face](https://studio.code.org/projects/gamelab/TfkLvkVahSJL6BqdPD3ZjzPD5pc_ny0_3RQnjR8lPHM/view)
+> In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
