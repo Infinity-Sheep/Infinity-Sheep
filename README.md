@@ -4,4 +4,8 @@
 - 🌱 I’m currently a student at Walpole Highschool going through a computer programming class
 - 💞️ I’m looking to collaborate on different coding projects with vairous coding languages
 - 📫 How to reach me ... anastasim26@wpsma.org
+
+# My Octocat
+![improvedOctocat copy](https://github.com/Infinity-Sheep/Infinity-Sheep/assets/146842663/9f8433f5-79bf-4198-bcbd-58af6027f4f9)
+
 # Published Works
