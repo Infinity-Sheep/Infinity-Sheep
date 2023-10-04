@@ -11,5 +11,5 @@
 # Published Works
 
 ### Code.org GameLab
-[Robot Face](https://studio.code.org/projects/gamelab/TfkLvkVahSJL6BqdPD3ZjzPD5pc_ny0_3RQnjR8lPHM/view)
+![Robot Face](https://studio.code.org/projects/gamelab/TfkLvkVahSJL6BqdPD3ZjzPD5pc_ny0_3RQnjR8lPHM/view)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
