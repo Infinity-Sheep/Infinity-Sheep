@@ -19,10 +19,15 @@
 
 [Animation]
 >
+
 [Interactive Card]
+>
 
 [Side Scroller]
+>
 
 [Flyer Game]
+>
 
 [Project - Design a Game]
+>
