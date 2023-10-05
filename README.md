@@ -14,7 +14,7 @@
 [Robot Face](http://Infinity-Sheep.github.io/RobotFace)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
 
-[Captioned Scene](https://studio.code.org/projects/gamelab/aLrjtP_6rkhfD1QFr26VRsOTwlLuCKoARggyfEHM9l4/edit)
+[Captioned Scene])https://studio.code.org/projects/gamelab/aLrjtP_6rkhfD1QFr26VRsOTwlLuCKoARggyfEHM9l4)
 > In this project, I used all my knowledge I have learned so far from code.org to create a scene where an audience is cheering on a man singing. In the project, I defined variables, made sprites with animations taken from the internet and code.org, and changed many of their properties using ufnctions like .alpha and .scale
 
 [Animation]
