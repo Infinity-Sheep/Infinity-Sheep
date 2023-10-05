@@ -11,5 +11,8 @@
 # Published Works
 
 ## Code.org GameLab
-[Robot Face](http://Infinity-Sheep.github.io/Robot-Face)
+[Robot Face](http://Infinity-Sheep.github.io/RobotFace)
 > In this project I used shapes, variables, and randomness to express my creativity and created a Random Robot Face.
+
+[Captioned Scene](http://Infinity-Sheep.github.io/CaptionedScene)
+> In this project, I ...
