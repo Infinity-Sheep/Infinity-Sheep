@@ -31,3 +31,10 @@
 
 [Project - Design a Game]
 >
+### App Inventor MIT
+[Hello It's Me](https://ai2.appinventor.mit.edu/#5998205890068480)
+> 4 different buttons, in which play different animal noises corresponding to its image.
+[MyPiano](https://ai2.appinventor.mit.edu/#6228538879246336)
+> AN ACTUAL FUNCTIONING KEYBOARD!!! WITH SHARPNOTES TOO! 14 KEYS!
+[MusicMaker](https://ai2.appinventor.mit.edu/#6098691674734592)
+> 4 Buttons in which you can remix a song of your own using 4 different samples.
