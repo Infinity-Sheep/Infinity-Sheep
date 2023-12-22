@@ -40,3 +40,6 @@
 
 [MusicMaker](https://gallery.appinventor.mit.edu/?galleryid=26170054-1c5e-41f8-bd32-ba68defe92f1)
 > 4 Buttons in which you can remix a song of your own using 4 different samples.
+
+[FindTheGold]( https://gallery.appinventor.mit.edu/?galleryid=1ec05cef-f3d1-4b25-b7d8-7dc8ee8cb318)
+> Tilt the tablet in different directions to nativate the ball to the gold to win!
