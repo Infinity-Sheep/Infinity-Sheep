@@ -17,20 +17,21 @@
 [Captioned Scene](https://studio.code.org/projects/gamelab/aLrjtP_6rkhfD1QFr26VRsOTwlLuCKoARggyfEHM9l4)
 > In this project, I used all my knowledge I have learned so far from code.org to create a scene where an audience is cheering on a man singing. In the project, I defined variables, made sprites with animations taken from the internet and code.org, and changed many of their properties using ufnctions like .alpha and .scale
 
-[Animation]
->
+[Interactive Card](https://studio.code.org/projects/gamelab/VPuRR99-jnBIIPmjzmDpUk02BIBVAVpT9xJfd-uH2RM)
+> Click on the presents to reveal my hobbies! They have cool animations!
 
-[Interactive Card]
->
+[Side Scroller](https://studio.code.org/projects/gamelab/f_AWeNhknzijbaUtIrdBL4jKBBWvbOCe2fSSSmLBf40)
+> Navigate as a monkey to collect bananas. Watch out for hte porcuppines!
 
-[Side Scroller]
->
+[Flyer Game](
+> As a bird, don't get pushed off by the flying pumpkins. Learned how to coordinate keys on the keyboard and mouse to actions of the player sprite.
 
-[Flyer Game]
->
+[Platformer Game](https://studio.code.org/projects/gamelab/Z9ZKrybDi3ENCCGthdMwTY7hShr5SmCXJbWnAYRkkqE)
+> Jump from platform to platform and collect orbs. Don't fall!
 
-[Project - Design a Game]
->
+[Project - Design a Game](
+> Get to the highest wave and earn coins. Watch out for the red hurling balls! Learn all the intro topics to coding in javascript. Functions, varaibles, and sprites all used together to make a game.
+
 ### App Inventor MIT
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=572be288-a231-4f39-bccb-a9356222ad2c)
 > 4 different buttons, in which play different animal noises corresponding to its image.
