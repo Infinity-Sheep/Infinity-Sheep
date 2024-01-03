@@ -21,7 +21,7 @@
 > Click on the presents to reveal my hobbies! They have cool animations!
 
 [Side Scroller](https://studio.code.org/projects/gamelab/f_AWeNhknzijbaUtIrdBL4jKBBWvbOCe2fSSSmLBf40)
-> Navigate as a monkey to collect bananas. Watch out for hte porcuppines!
+> Navigate as a monkey to collect bananas. Watch out for the porcupines!
 
 [Flyer Game](
 > As a bird, don't get pushed off by the flying pumpkins. Learned how to coordinate keys on the keyboard and mouse to actions of the player sprite.
