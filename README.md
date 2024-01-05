@@ -44,3 +44,6 @@
 
 [FindTheGold](https://gallery.appinventor.mit.edu/?galleryid=1ec05cef-f3d1-4b25-b7d8-7dc8ee8cb318)
 > Tilt the tablet in different directions to nativate the ball to the gold to win!
+
+[FoodChase](https://gallery.appinventor.mit.edu/?galleryid=80d8e3ae-58f4-4f63-bb25-77b19577f941)
+> Fling the blue ball and collect fruits while dodging the red ball. This project was a collaborative project, looking at integrating variables and procedures to assign scores and different characteristics to imageSprites and balls as thegame progresses.
