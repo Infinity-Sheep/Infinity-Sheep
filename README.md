@@ -29,8 +29,8 @@
 [Platformer Game](https://studio.code.org/projects/gamelab/Z9ZKrybDi3ENCCGthdMwTY7hShr5SmCXJbWnAYRkkqE)
 > Jump from platform to platform and collect orbs. Don't fall!
 
-[Project - Design a Game](
-> Get to the highest wave and earn coins. Watch out for the red hurling balls! Learn all the intro topics to coding in javascript. Functions, varaibles, and sprites all used together to make a game.
+[Project - Design a Game](https://studio.code.org/projects/gamelab/V7h3zCPgjmu35U9vjNLjl4QvoExFTI6rhboHWjfZhm4)
+> Get to the highest wave and earn coins. Watch out for the red hurling balls! Learn all the intro topics to coding in javascript. Functions, varaibles, and sprites all used together to make a game. Has a difficutly spike coded into the waves as well!
 
 ### App Inventor MIT
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=572be288-a231-4f39-bccb-a9356222ad2c)
