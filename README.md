@@ -51,9 +51,13 @@
 ### CMU Python
 [Creative Assignment #1](https://academy.cs.cmu.edu/sharing/aquaKitten5719)
 > In this project, I used an expanded knowledge of using shapes and designing a complex image using coordinates and complex polygons. The scene is a polar bear in the arctic.
+
 [Creative Assignment #2](https://academy.cs.cmu.edu/sharing/midnightBlueScorpion7341)
 > In this project, I created functions, used mouse press, and altered shape properties to make an animated and colorful scene of mario.
+
 [Creative Assignment #3](https://academy.cs.cmu.edu/sharing/tanChimpanzee3137)
 > In this project, I used helper functions, if statements, mouse events, and an advanced use of shapes to make a complex design where you can flip a switch and lamp on and off
+
 [Creative Assignment #4](https://academy.cs.cmu.edu/sharing/brownCamel4141)
 > In this project, I used elif statements, key events, methods like custom properties, and adapting normal shape properties to make a little game where you can feed a huma and he gets bigger or smaller.
+
