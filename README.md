@@ -61,3 +61,5 @@
 [Creative Assignment #4](https://academy.cs.cmu.edu/sharing/brownCamel4141)
 > In this project, I used elif statements, key events, methods like custom properties, and adapting normal shape properties to make a little game where you can feed a huma and he gets bigger or smaller.
 
+[Creative Assignment #5](https://academy.cs.cmu.edu/sharing/maroonEagle3420)
+> In this project, I used complex conditionals and diffent loops to make a working claw machine. Also used onKeyHold functions. EPIC PROJECT!!!!!!!!!!!!!!!!!!
