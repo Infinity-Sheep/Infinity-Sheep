@@ -53,17 +53,17 @@
 > In this project, I used an expanded knowledge of using shapes and designing a complex image using coordinates and complex polygons. The scene is a polar bear in the arctic.
 
 [Creative Assignment #2](https://academy.cs.cmu.edu/sharing/midnightBlueScorpion7341)
-> In this project, I created functions, used mouse press, and altered shape properties to make an animated and colorful scene of mario.
+> In this project, I created functions, used mouse press, and altered shape properties to make an animated and colorful scene of mario. When you click the screen, a mario-looking figure appears.
 
 [Creative Assignment #3](https://academy.cs.cmu.edu/sharing/tanChimpanzee3137)
-> In this project, I used helper functions, if statements, mouse events, and an advanced use of shapes to make a complex design where you can flip a switch and lamp on and off
+> In this project, I used helper functions, if statements, mouse events, and an advanced use of shapes to make a complex design where you can flip a switch and lamp on and off.
 
 
 [Creative Assignment #4](https://academy.cs.cmu.edu/sharing/brownCamel4141)
 > In this project, I used elif statements, key events, methods like custom properties, and adapting normal shape properties to make a little game where you can feed a huma and he gets bigger or smaller.
 
 [Creative Assignment #5](https://academy.cs.cmu.edu/sharing/maroonEagle3420)
-> In this project, I used complex conditionals and diffent loops to make a working claw machine. Also used onKeyHold functions. EPIC PROJECT!!!!!!!!!!!!!!!!!!
+> In this project, I used complex conditionals and diffent loops to make a working claw machine. Specifically, I made lists instead of groups since you can change individual indexes in a list. With this, we were able to move the claw all at the same time with no a lot of code. Also used onKeyHold functions. EPIC PROJECT!!!!!!!!!!!!!!!!!!
 
 [Creative Assignment #6](https://academy.cs.cmu.edu/sharing/seaGreenHorse8647)
 > In this project, we animated a mountainous landscape through a day and night cycle. We used the onStep() function to help with the animation and made many objects into groups so we can change the properties of many things at once.
