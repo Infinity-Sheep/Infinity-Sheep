@@ -58,8 +58,12 @@
 [Creative Assignment #3](https://academy.cs.cmu.edu/sharing/tanChimpanzee3137)
 > In this project, I used helper functions, if statements, mouse events, and an advanced use of shapes to make a complex design where you can flip a switch and lamp on and off
 
+
 [Creative Assignment #4](https://academy.cs.cmu.edu/sharing/brownCamel4141)
 > In this project, I used elif statements, key events, methods like custom properties, and adapting normal shape properties to make a little game where you can feed a huma and he gets bigger or smaller.
 
 [Creative Assignment #5](https://academy.cs.cmu.edu/sharing/maroonEagle3420)
 > In this project, I used complex conditionals and diffent loops to make a working claw machine. Also used onKeyHold functions. EPIC PROJECT!!!!!!!!!!!!!!!!!!
+
+[Creative Assignment #6](https://academy.cs.cmu.edu/sharing/seaGreenHorse8647)
+> In this project, we animated a mountainous landscape through a day and night cycle. We used the onStep() function to help with the animation and made many objects into groups so we can change the properties of many things at once.
